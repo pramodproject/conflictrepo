@@ -1,6 +1,8 @@
 line1
+line2b
+line3b
+line4
+line6b
 line2m
-line3m
 line4
 line5m
-line6m
